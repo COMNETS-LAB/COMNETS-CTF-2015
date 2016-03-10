@@ -13,4 +13,8 @@ Type soal Joepardy.Berikut beberapa soal yang termasuk dalam kategori,antara lai
 <li>Website (Tidak bisa diupload)</li>
 </ul>
 
-<b>WriteUP COMING SOON!!</b>
+<b>WriteUP</b>
+<ul>
+<li><a href="https://github.com/nacfasilkomunsri/COMNETS-CTF-2015/blob/master/Writeup/%5BCRYPTO%5DWrite-Ups_ComnetsCTF%20By%20Port80.pdf">Crypto by Port80</a></li>
+<li>Reverse Engineering by Port80</li>
+</ul>
