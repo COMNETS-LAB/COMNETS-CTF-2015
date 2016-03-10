@@ -12,5 +12,5 @@ Type soal Joepardy.Berikut beberapa soal yang termasuk dalam kategori,antara lai
 <li><a href="Reverse">Reverse</a></li>
 <li>Website (Tidak bisa diupload)</li>
 </ul>
-<br>
+
 <b>WriteUP</b>
