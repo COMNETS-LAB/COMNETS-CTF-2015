@@ -9,4 +9,6 @@ Berikut beberapa kategori soal dengan type joepardy :
 <li><a href="Crypto">Crypto</a></li>
 <li><a href="Forensic">Forensic</a></li>
 <li><a href="Networking">Networking</a></li>
+<li><a href="Reverse">Reverse</a></li>
+<li>Website (Tidak bisa diupload)</li>
 </ul>
