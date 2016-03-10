@@ -1,10 +1,9 @@
 # COMNETS-CTF-2015
 
 <center><img src="http://ilkom.unsri.ac.id/wp-content/uploads/2015/10/ctf-630x210.jpg"><br></center>
-<p>Pembukaan</p>
+
 Dalam rangka memperingati hari sumpah pemuda <b>COMNETS (Communication Network and Information Security)</b>,<br> 
 <a href="http://nac.ilkom.unsri.ac.id">NAC (Network Administration Club)</a> dan <a href="http://ict.ilkom.unsri.ac.id">ICT Fasilkom</a> akan kembali mengadakan kompetisi <b>Capture The Flag (CTF)</b>.<br>
-<p>Soal</p>
 Type soal Joepardy.Berikut beberapa soal yang termasuk dalam kategori,antara lain:
 <ul>
 <li><a href="Crypto">Crypto</a></li>
@@ -13,3 +12,5 @@ Type soal Joepardy.Berikut beberapa soal yang termasuk dalam kategori,antara lai
 <li><a href="Reverse">Reverse</a></li>
 <li>Website (Tidak bisa diupload)</li>
 </ul>
+<br>
+<b>WriteUP</b>
