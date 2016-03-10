@@ -13,4 +13,4 @@ Type soal Joepardy.Berikut beberapa soal yang termasuk dalam kategori,antara lai
 <li>Website (Tidak bisa diupload)</li>
 </ul>
 
-<b>WriteUP</b>
+<b>WriteUP COMING SOON!!</b>
